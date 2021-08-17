@@ -1,0 +1,14 @@
+# whitelist
+!*/
+!*.yaml
+!.gitignore
+!*.md
+!automation/**
+
+# directories
+.storage
+
+
+# ignore
+ip_bans.yaml
+secrets.yaml

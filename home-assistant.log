@@ -1,0 +1,4 @@
+2021-08-17 11:01:31 WARNING (MainThread) [homeassistant.setup] Setup of input_text is taking over 10 seconds.
+2021-08-17 11:01:31 WARNING (MainThread) [homeassistant.setup] Setup of timer is taking over 10 seconds.
+2021-08-17 11:01:31 WARNING (MainThread) [homeassistant.setup] Setup of zone is taking over 10 seconds.
+2021-08-17 11:01:31 WARNING (MainThread) [homeassistant.setup] Setup of counter is taking over 10 seconds.
